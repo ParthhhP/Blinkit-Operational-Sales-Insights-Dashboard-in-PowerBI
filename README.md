@@ -5,6 +5,7 @@ The "Blinkit Operational & Sales Insights Dashboard" is a comprehensive PowerBI 
 This dashboard provides stakeholders with an interactive platform to explore data trends, monitor performance, and make informed decisions.
 
 Key Features:
+
 1.Operational Analysis: Offers detailed views of operational metrics, including delivery times, order volumes, and service areas, enabling assessment of efficiency and identification of areas for improvement.
 
 2.Sales Performance: Presents sales data such as total revenue, average order value, and customer acquisition rates, facilitating evaluation of sales strategies and market performance.
